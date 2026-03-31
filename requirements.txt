@@ -1,7 +1,7 @@
 # ── Emotion Detection ─────────────────────────────────────────
 transformers>=4.40.0
 torch>=2.0.0                  # CPU build sufficient for inference
-# torch==2.0.0+cpu            # uncomment for explicit CPU-only torch
+
 
 # ── Text-to-Speech ────────────────────────────────────────────
 gTTS>=2.5.0
