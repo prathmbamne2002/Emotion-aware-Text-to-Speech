@@ -93,7 +93,7 @@ brew install ffmpeg
 ### 2. Clone & Install
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/prathmbamne2002/Emotion-aware-Text-to-Speech>
 cd empathy_engine
 
 # Create a virtual environment (recommended)
